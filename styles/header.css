@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    height: 350px;
+    margin: 30px 0 0;
+    align-items: flex-start;
+}
+
+
+.headerLeft{
+    padding: 30px 60px 80px;
+}
+.headerLeft > h1{
+    font-size:48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+    margin: 0 ;
+}
+.headerRight > img{
+    width: 400px;
+}
+
+.headerLeft > p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 0;
+    line-height: 1.5em;
+}

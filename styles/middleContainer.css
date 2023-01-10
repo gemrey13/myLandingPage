@@ -1,0 +1,20 @@
+.middleContainer{
+    text-align: center;
+    margin: 80px 0 0;
+}
+.middleContainer > h3{
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+    margin-bottom: 70px;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cards > img{
+    width:270px;
+    border-radius: 30px;
+
+}
